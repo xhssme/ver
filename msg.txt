@@ -1,1 +1,1 @@
-{"code":0,"message":"* 敏感时期，紧急修复中...","data":null}
+{"code":0,"message":"","data":null}
