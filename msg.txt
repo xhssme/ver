@@ -1,1 +1,1 @@
-{"code":0,"message":"","data":null}
+{"code":0,"message":"* 最近敏感时期，节点随时可能和谐，尽力保障使用，请谅解","data":null}
